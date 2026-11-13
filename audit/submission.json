@@ -1,0 +1,57 @@
+{
+  "report_id": "LWA-OPS-2026-11-B7Q2",
+  "window_start": "2026-11-08T01:00:00Z",
+  "window_end": "2026-11-08T07:00:00Z",
+  "total_excursions": 192,
+  "critical_excursions": 15,
+  "asset_summary": [
+    {
+      "asset_id": "PS-01",
+      "excursion_count": 24,
+      "critical_count": 3,
+      "status": "ESCALATE"
+    },
+    {
+      "asset_id": "PS-02",
+      "excursion_count": 24,
+      "critical_count": 1,
+      "status": "MONITOR"
+    },
+    {
+      "asset_id": "PS-03",
+      "excursion_count": 24,
+      "critical_count": 4,
+      "status": "ESCALATE"
+    },
+    {
+      "asset_id": "PS-04",
+      "excursion_count": 24,
+      "critical_count": 1,
+      "status": "MONITOR"
+    },
+    {
+      "asset_id": "PS-05",
+      "excursion_count": 24,
+      "critical_count": 2,
+      "status": "ESCALATE"
+    },
+    {
+      "asset_id": "PS-06",
+      "excursion_count": 24,
+      "critical_count": 1,
+      "status": "MONITOR"
+    },
+    {
+      "asset_id": "PS-07",
+      "excursion_count": 24,
+      "critical_count": 3,
+      "status": "ESCALATE"
+    },
+    {
+      "asset_id": "PS-08",
+      "excursion_count": 24,
+      "critical_count": 0,
+      "status": "MONITOR"
+    }
+  ]
+}
